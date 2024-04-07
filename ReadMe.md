@@ -1,43 +1,32 @@
-# Algorithms in JavaScript
+# Data Structure and Algorithm
 
-<details>
-<summary>Data Structures</summary>
+### 1. [Arrays][arrays]
+![arrays](./Images/arrays.png)
 
-- [x] [Linked Lists](https://github.com/Douglas-James/Algos-javascrit/tree/origin/DATAStructure/Linked_Lists)
-- [x] [Stacks + Queues](https://github.com/Douglas-James/Algos-javascrit/tree/origin/DATAStructure/Stacks%2BQueues)
-- [x] [Singly Linked Lists](https://github.com/Douglas-James/Algos-javascrit/tree/origin/DATAStructure/SinglyLinkedLists)
-- [x] [Doubly Linked Lists](https://github.com/Douglas-James/Algos-javascrit/tree/origin/DATAStructure/DoublyLinkedLists)
-- [x] [Graphs](https://github.com/Douglas-James/Algos-javascrit/tree/origin/DATAStructure/Graphs)
-- [x] [Binary Search Trees](https://github.com/Douglas-James/Algos-javascrit/tree/origin/DATAStructure/Binary_Search_Trees) 
-- [x] [Hash Tables](https://github.com/Douglas-James/Algos-javascrit/tree/origin/DATAStructure/Hash_Tables)
+### 2. [Linked Lists][linked-lists]
+![linked-lists](./Images/linked-lists.png)
 
-</details>
+### 3. [Stacks][stacks]
+![stacks](./Images/stacks.png)
 
-<details>
-<summary>Sorting Algorithms</summary>
+### 4. [Queues][queues]
+![queues](./Images/queues.png)
 
-- [x] [Bubble Sort](https://github.com/Douglas-James/Algos-javascrit/tree/origin/Sorting_algorithms/Bubble_Sort)
-- [x] [Insertion Sort](https://github.com/Douglas-James/Algos-javascrit/tree/origin/Sorting_algorithms/Insertion_Sort)
-- [x] [Selection Sort](https://github.com/Douglas-James/Algos-javascrit/tree/origin/Sorting_algorithms/Selection_Sort)
-- [x] [Merge Sort](https://github.com/Douglas-James/Algos-javascrit/tree/origin/Sorting_algorithms/Merge_Sort)
-- [x] [Quick Sort](https://github.com/Douglas-James/Algos-javascrit/tree/origin/Sorting_algorithms/Quick_Sort)
-- [x] [Radix Sort](https://github.com/Douglas-James/Algos-javascrit/tree/origin/Sorting_algorithms/Radix)
+### 5. [Binary Trees][binary-trees]
+![binary-trees](./Images/binary-trees.png)
 
-</details>
+### 6. [Hash Tables][hash-tables]
+![hash-tables](./Images/hash-tables.png)
 
-<details>
-<summary>Searching Algorithms</summary>
+### 7. [Graphs][graphs]
+![graphs](./Images/graphs.png)
 
-- [x] [Linear Search](https://github.com/Douglas-James/Algos-javascrit/tree/origin/Searching_algorithms/Linear_Search)
-- [x] [Binary Search](https://github.com/Douglas-James/Algos-javascrit/tree/origin/Searching_algorithms/Binary_Search)
 
-</details>
+[arrays]: Arrays/
+[linked-lists]: LinkedLists/
+[stacks]: StacksQueues/Stacks/
+[queues]: StacksQueues/Queues/
+[binary-trees]: BinaryTrees/
+[hash-tables]: HashTable/
+[graphs]: Graphs/
 
-<details>
-<summary>Dynamic Programming</summary>
-
-- [x] [Fibonacci Series](https://github.com/Douglas-James/Algos-javascrit/tree/origin/Dynamic_Programming/Fibonacci_Series)
-- [x] [Longest Common Subsequence](https://github.com/Douglas-James/Algos-javascrit/tree/origin/Dynamic_Programming/Longest_Common_Subsequence)
-- [x] [Shortest Common Supersequence](https://github.com/Douglas-James/Algos-javascrit/tree/origin/Dynamic_Programming/Shortest_Common_Supersequence)
-
-</details>
